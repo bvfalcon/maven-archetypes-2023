@@ -25,7 +25,7 @@ under the License.
   <parent>
     <groupId>org.apache.maven</groupId>
     <artifactId>maven-parent</artifactId>
-    <version>34</version>
+    <version>39</version>
   </parent>
 
   <groupId>org.apache.maven.archetypes</groupId>
@@ -76,7 +76,7 @@ under the License.
   <properties>
     <maven.site.path>archetypes-archives/archetypes-LATEST</maven.site.path>
     <rat.skip>true</rat.skip>
-    <project.build.outputTimestamp>2020-04-05T12:04:00Z</project.build.outputTimestamp>
+    <project.build.outputTimestamp>2023-01-16T10:13:00Z</project.build.outputTimestamp>
   </properties>
 
   <repositories>

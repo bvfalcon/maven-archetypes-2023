@@ -1,4 +1,4 @@
-package $package;
+package it.pkg;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
@@ -7,14 +7,13 @@ import org.junit.jupiter.api.Test;
 /**
  * Unit test for simple App.
  */
-public class AppTest
-{
+public class AppTest {
+
     /**
      * Rigorous Test :-)
      */
     @Test
-    public void shouldAnswerWithTrue()
-    {
-        assertTrue( true );
+    public void shouldAnswerWithTrue() {
+        assertTrue(true);
     }
 }
