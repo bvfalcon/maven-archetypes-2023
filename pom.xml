@@ -76,6 +76,7 @@ under the License.
   <properties>
     <maven.site.path>archetypes-archives/archetypes-LATEST</maven.site.path>
     <rat.skip>true</rat.skip>
+    <spotless.check.skip>true</spotless.check.skip>
     <project.build.outputTimestamp>2023-02-24T11:22:00Z</project.build.outputTimestamp>
   </properties>
 
